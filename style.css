@@ -542,7 +542,7 @@ background-color: black;
 /*responsive part*/
 @media only screen and (max-width: 426px) {
 	.wrapper{
-		height: 780vh;
+		height: 740vh;
 		width: 95vw;
 		//border:2px solid red ;
 	}
@@ -641,7 +641,7 @@ background-color: black;
 	//background-color: black;
 	border-radius:2%;
 	width: 60vw;
-	margin-left: 6%;
+	margin-left: 10%;
 	border: 2px solid red;
 }
 .icon_grp{
