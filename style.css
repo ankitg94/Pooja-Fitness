@@ -642,7 +642,7 @@ background-color: black;
 	border-radius:2%;
 	width: 60vw;
 	margin-left: 10%;
-	border: 2px solid red;
+	//border: 2px solid red;
 }
 .icon_grp{
 	margin-top: -10%;
@@ -650,11 +650,12 @@ background-color: black;
 	opacity: 1;
 }
 .para_grp{
+	
 	font-size: 18px;
-	color: black;
+	color: darkred;
 }
 #icon{
-	height: 45px;
+	height: 55px;
 	width: 30px;
 }
 
