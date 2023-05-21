@@ -221,11 +221,11 @@
 .spcr{
 	width: 35vw;
 	height: 60vh;
-	border: 2px solid blue;
+	
 	margin-top: 7%;
 	background-color: lightyellow;
 	opacity: 0.8;
-	border: 10px solid grey;
+	//border: 10px solid grey;
 	border-radius: 50%;
 	margin-left: 10%;
 }
