@@ -638,7 +638,7 @@ background-color: black;
 	opacity: 0%;
 }
 .spcr{
-	background-color: transparent;
+	  background-color: lightyellow;
 	border-radius:2%;
 	width: 60vw;
 	margin-left: 10%;
@@ -653,7 +653,7 @@ background-color: black;
 	
 	font-size: 18px;
 	color: darkred;
-	background-color: white;
+	
 }
 #icon{
 	height: 55px;
